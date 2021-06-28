@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FdL/FkSpwwrFRsaTKwPWScv2pmmFny9z1JREuel2LDGi1PyCyPg/52LdcyzjvcJAgaduUN5uzHUrkfKfdM/3cg==",
+  "dgSpecHash": "e0LHhR4wBWGO2kBMmtvV76y5ur5AAHUiwkqH7kWSHKubJrmFAUJIEIpymohqlHrSlMgYkDWct/ZuAZa4iyvUkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
+  "projectFilePath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stalk\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\stalk\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

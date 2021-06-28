@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWiWCad4/0GTA/qtSa2J/vef31WkX2PskP7GTAjXBftlZO7pdO7ShKOfjnvdoOOanqtaa6pFHJ/PXI2XstfQeg==",
+  "dgSpecHash": "MPpzqrBQqyGI5isBlz8Yxh6CZWWgz4o8DIZDR8NBxcIn72HPmln4UOoZDd/U576L4RtYKqGBDlLQutlbSa4pGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.WebUI\\ePizzaHub.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.WebUI\\ePizzaHub.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stalk\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\stalk\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

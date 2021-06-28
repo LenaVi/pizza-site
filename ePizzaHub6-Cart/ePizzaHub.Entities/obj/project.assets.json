@@ -748,11 +748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
       "projectName": "ePizzaHub.Entities",
-      "projectPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
+      "projectPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
       "packagesPath": "C:\\Users\\stalk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\obj\\",
+      "outputPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

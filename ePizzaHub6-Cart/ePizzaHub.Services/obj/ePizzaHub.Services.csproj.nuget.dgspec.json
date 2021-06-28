@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj": {}
+    "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
+    "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
         "projectName": "ePizzaHub.Entities",
-        "projectPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
+        "projectPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj",
         "packagesPath": "C:\\Users\\stalk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\obj\\",
+        "outputPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
+    "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
         "projectName": "ePizzaHub.Repositories",
-        "projectPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
+        "projectPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj",
         "packagesPath": "C:\\Users\\stalk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -100,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
-                "projectPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj"
+              "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj": {
+                "projectPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Entities\\ePizzaHub.Entities.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj": {
+    "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
+        "projectUniqueName": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
         "projectName": "ePizzaHub.Services",
-        "projectPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
+        "projectPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Services\\ePizzaHub.Services.csproj",
         "packagesPath": "C:\\Users\\stalk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Services\\obj\\",
+        "outputPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -184,8 +184,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
-                "projectPath": "C:\\Users\\stalk\\Desktop\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj"
+              "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj": {
+                "projectPath": "C:\\Users\\stalk\\Desktop\\pizza-site\\ePizzaHub6-Cart\\ePizzaHub.Repositories\\ePizzaHub.Repositories.csproj"
               }
             }
           }
