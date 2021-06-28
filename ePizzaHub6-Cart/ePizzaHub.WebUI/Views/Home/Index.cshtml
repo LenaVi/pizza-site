@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_PublicLayout";
+}
+<div style="background:#1a5ca3;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 text-white" style="width:100%">
+                <div class="pt-5 pb-5">
+                    <h1>Онлайн-заказ Pizza Hut&Hungry</h1>
+                    <p class="pb-4">
+                        Вкусная пицца с быстрой доставкой!
+                    </p>
+                    <p>
+                        <a href="#heading" class="btn btn-success">ЗАКАЗАТЬ ОНЛАЙН СЕЙЧАС</a>
+                    </p>
+                </div>
+            </div>
+            <div class="col-sm-4 pt-4">
+                <img src="~/images/OrderOnline-mobile.png" class="img-fluid" />
+            </div>
+        </div>
+    </div>
+</div>
+
+@await Component.InvokeAsync("PizzaMenu")

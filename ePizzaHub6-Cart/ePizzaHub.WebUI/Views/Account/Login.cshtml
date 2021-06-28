@@ -1,0 +1,29 @@
+﻿@model ePizzaHub.WebUI.Models.LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Войти</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Login" asp-route-returnurl="@Context.Request.Query["ReturnUrl"]">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label">Email</label>
+                <input asp-for="Email" type="email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label">Пароль</label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Войти" class="btn btn-primary"></input >
+                &nbsp; <a asp-action="SignUp" class="btn btn-warning">Зарегистрироваться</a>
+            </div>
+        </form>
+    </div>
+</div>

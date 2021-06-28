@@ -1,0 +1,82 @@
+﻿@model IEnumerable<ePizzaHub.Entities.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Мои Заказы</h1>
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Id
+                </th>
+
+                <th>
+                    Id Оплаты
+                </th>
+                <th>
+                    Улица
+                </th>
+                <th>
+                    Индекс
+                </th>
+                <th>
+                    Район
+                </th>
+                <th>
+                    Номер телефона
+                </th>
+                <th>
+                    Дата Заказа
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PaymentId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Street)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ZipCode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Locality)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PhoneNumber)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Подробнее", "Details", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="row">
+        <div class="col-sm-12 mt-4">
+            <p style="min-height:300px">
+                Вы еще ничего не заказывали. Пожалуйста, ознакомьтесь с нашим меню! <br><br>
+                <a href="/" class="btn btn-primary">Открыть Меню</a>
+            </p>
+        </div>
+    </div>
+}
